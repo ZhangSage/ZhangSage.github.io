@@ -11,8 +11,5 @@ permalink: /about.html
 你可以通过以下方式联系作者
 
 QQ: 2584980173
-
-Email: <a href="2584980173@qq.com">lk@atlinker.cn</a>
-
 Github: [ZhangSage](https://github.com/ZhangSage)
 
