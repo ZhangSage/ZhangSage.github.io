@@ -11,5 +11,6 @@ permalink: /about.html
 你可以通过以下方式联系作者
 
 QQ: 2584980173
+
 Github: [ZhangSage](https://github.com/ZhangSage)
 
