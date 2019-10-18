@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第一篇博文
-tags: 感谢
+tags: 感想
 stickie: true
 ---
 
