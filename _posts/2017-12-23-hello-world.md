@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hello World!
-tags: Hydrogen
+title: 第一篇博文
+tags: 感谢
 stickie: true
 ---
 
-Welcome to Hydrogen!<br>If you saw this post, your blog has been successfully deployed.So enjoy the fun of writing now!
+创建了博客网站，留一篇文章，留一个足迹。<br>新的工具，新的方向，新的开始，新的想法，fighting！
 
-> Hello Hydrogen!
+> Hello World!
