@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Shader Graph的使用流程
-tags: Shader Graph
+tags: ShaderGraph
 stickie: false
 ---
+
 ## Shader Graph的使用流程
 
 - 1.创建一个新的Lightweight RP项目，或者在已有项目中在packmanager中手动安装ShaderGraph和Render Pipeline相关的包。
